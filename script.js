@@ -26,7 +26,7 @@ function writePassword() {
   
 
 }
-
+// added this generatePassword funciton to make the application actually return a random password
 function generatePassword () {
   var password = "";
     for(var i = 0; i < characterLength; i++) { // creates loop to randomly select characters using math.floor(math.random) and mutilplying by the length of the array userChoice.
