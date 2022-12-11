@@ -36,7 +36,7 @@ THEN the password is either displayed in an alert or written to the page
  Character Length must be between 8-128 characters. If this is not entered correctly, the user will not be allowed to proceed. The "cancel" option will tell the application not use above user choices. 
 
 ### ScreenShot of Challenge
-![screen shot of module 1 challenge 1](Assets\Random-Password-app-01.PNG)
+![screen shot of module 1 challenge 1](../Assets/Random-Password-app-01.PNG)
 
         
 
